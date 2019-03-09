@@ -1,4 +1,3 @@
-web: vendor/bin/heroku-php-apache2 web/
 svc1: vendor/bin/heroku-php-apache2 web/
 svc2: vendor/bin/heroku-php-apache2 web/
 svc3: vendor/bin/heroku-php-apache2 web/
